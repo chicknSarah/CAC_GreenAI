@@ -5,7 +5,7 @@ This project uses Thunkable to create the UI of the app, and most of the coding 
 
 So, the majority of the main project of GreenAI is in CoLab and Thunkable linked below:
 https://x.thunkable.com/projectPage/672a4a2a6b13027e12120aa3
-test out the app, and view code in Thunkable
+test out the app via the link. Click "See Inside" to view code.
 
 The CoLab code used to update each region's past 24 hr of data, the next 24 hr forecast, the forecast lowest 4 CI hours, and the forecast average CI (the estimated CO2 saved is calculated on Thunkable):
 https://colab.research.google.com/drive/1Hynh295SLFe9JAHiEoZXb6UXSMGFaB0a?usp=sharing
